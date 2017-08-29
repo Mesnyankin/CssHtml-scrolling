@@ -1,7 +1,7 @@
 # CssHtml-scrolling
 
 Задача:<br><br> 
-
+<img style="width:50;height:150" src="https://github.com/Mesnyankin/CssHtml-scrolling/blob/master/images/img1.png" alt=""/>
 Средствами html+css разместить предложенные картинки таким образом, чтобы изображения телефонов были представлены в виде одинаковых<br> фоновых картинок размером w:350px*h:600px.<br><br> 
 
 Расстояние между телефонами — 200px.<br><br> 
