@@ -1,5 +1,5 @@
 # CssHtml-scrolling
-After: Mesnyankin Alexey<br>
+Author: Mesnyankin Alexey<br>
 Data: 20/08/2017<br><br>
 
 Задача:<br><br> 
